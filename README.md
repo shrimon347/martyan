@@ -1,6 +1,6 @@
 ### E-commerce website using Html, Css and JavaScript.
 
-![E-commerce website](https://github.com/shrimon347/elio/blob/master/Capture.PNG?raw=true)
+![E-commerce website](https://github.com/shrimon347/martyan/blob/master/Capture.PNG?raw=true)
 
 #### Demo:https://shrimon347.github.io/elio/
 
